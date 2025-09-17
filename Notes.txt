@@ -1,0 +1,15 @@
+Welcome to the Quantum-Analyser Project 🚀
+
+This repository is dedicated to applying ancient knowledge systems to modern problems.
+
+Current goals:
+- Set up the basic repository structure
+- Add starter web files (HTML, CSS, JavaScript)
+- Deploy site on Netlify
+
+Next steps:
+1. Create a simple "Hello World" webpage.
+2. Connect this repository with Netlify for automatic deployment.
+3. Add documentation and research notes.
+
+Maintained by: Team Applied-Ancient-Knowledge
