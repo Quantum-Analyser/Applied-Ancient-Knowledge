@@ -10,8 +10,7 @@ st.markdown("*Find collaborators. Build the future. Powered by AppliedAncients Ã
 # Load data
 @st.cache_data
 def load_data():
-    return pd.read_csv('../data/youth_skills.csv')
-
+return pd.read_csv('data/youth_skills.csv')
 df = load_data()
 
 # Filters
